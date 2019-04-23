@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "meshinterpolation_test", "meshinterpolation_test\meshinterpolation_test.vcproj", "{E7F0B74E-6E5E-4BB2-A818-0EC630CCD187}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "meshinterpolation_direct", "meshinterpolation_direct\meshinterpolation_direct.vcproj", "{6B461199-EA6B-4572-9BF9-FAEFB08D24CC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "meshinterpolation_partref", "meshinterpolation_partref\meshinterpolation_partref.vcproj", "{254EBA2E-69DC-412E-A834-6C08E11EAA3C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "meshinterpolation_kdtree", "meshinterpolation_kdtree\meshinterpolation_kdtree.vcproj", "{09EB82DB-6008-4F7C-8EE4-511196A1B46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F0B74E-6E5E-4BB2-A818-0EC630CCD187}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E7F0B74E-6E5E-4BB2-A818-0EC630CCD187}.Debug|Win32.Build.0 = Debug|Win32
+		{E7F0B74E-6E5E-4BB2-A818-0EC630CCD187}.Release|Win32.ActiveCfg = Release|Win32
+		{E7F0B74E-6E5E-4BB2-A818-0EC630CCD187}.Release|Win32.Build.0 = Release|Win32
+		{6B461199-EA6B-4572-9BF9-FAEFB08D24CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B461199-EA6B-4572-9BF9-FAEFB08D24CC}.Debug|Win32.Build.0 = Debug|Win32
+		{6B461199-EA6B-4572-9BF9-FAEFB08D24CC}.Release|Win32.ActiveCfg = Release|Win32
+		{6B461199-EA6B-4572-9BF9-FAEFB08D24CC}.Release|Win32.Build.0 = Release|Win32
+		{254EBA2E-69DC-412E-A834-6C08E11EAA3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{254EBA2E-69DC-412E-A834-6C08E11EAA3C}.Debug|Win32.Build.0 = Debug|Win32
+		{254EBA2E-69DC-412E-A834-6C08E11EAA3C}.Release|Win32.ActiveCfg = Release|Win32
+		{254EBA2E-69DC-412E-A834-6C08E11EAA3C}.Release|Win32.Build.0 = Release|Win32
+		{09EB82DB-6008-4F7C-8EE4-511196A1B46C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09EB82DB-6008-4F7C-8EE4-511196A1B46C}.Debug|Win32.Build.0 = Debug|Win32
+		{09EB82DB-6008-4F7C-8EE4-511196A1B46C}.Release|Win32.ActiveCfg = Release|Win32
+		{09EB82DB-6008-4F7C-8EE4-511196A1B46C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
